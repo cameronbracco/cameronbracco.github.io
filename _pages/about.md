@@ -19,13 +19,14 @@ social: true  # includes social icons at the bottom of the page
 
 Heyo! Welcome to my personal website/portfolio. Here you'll find some information about my [previous projects](/projects), my [teaching experience](/teaching), as well as a [blog](blog) for things I find interesting.
 
-I'm currently a third year computer science student at [Northeastern University](https://northeastern.edu) with a passion for space, robotics, additive manufacturing, and the constantly evasive idea of memory. I also love teaching and helping people learn, and I'm very interested in how we can provide high-quality, public education at both the primary and secondary levels.
+I'm currently a fourth year computer science student at [Northeastern University](https://northeastern.edu) with a passion for space, robotics, additive manufacturing, and the mechanisms of memory. I also love teaching and helping people learn, and I'm very interested in how we can provide high-quality, public education at both the primary and secondary levels.
 
-Whenever I'm not in classes or teaching you'll likely find me working on projects as part of [AerospaceNU](https://aerospacenu.com). I am extremely lucky to have served as the club's President since Fall 2020, and as VP for a year before that. As part of my role I get to interact with over 150 incredibly tralented students who come together from all over the university to work on student-led aerospace projects. My main goal as President is to build a community that will enable the club to continue existing and providing experiences to students for years to come--I hope to set the stage for the next generation of eager and curious students.
+Whenever I'm not in classes or teaching you'll likely find me working on projects as part of [AerospaceNU](https://aerospacenu.com). I am extremely lucky to have served as the club's President during the 2020-2021 school year, and as VP for a year before that. As part of my role I got to interact with over 150 incredibly talented students who come together from all over the university to work on student-led aerospace projects. My main goal as President was to build a community that would enable the club to continue existing and providing experiences to students for years to come--I wanted to set the stage for the next generation of eager and curious students. With almost 6 months since I left the helm I am thrilled to see the club continuing the thrive ad grow.
 
-In Fall 2021 I'll be joining [Blue Origin](https://www.blueorigin.com/) for an Avionics internship. If you'll be in the Seattle area I'd love to meet up!
+After a great experience as an intern at [Blue Origin](https://www.blueorigin.com/) this fall I will be returning full time in July as part of their New Graduate Rotation program.
 
-I'm always looking for future opportunities. I would love to work somewhere that is either actively tackling the challenges of space exploration (ideally human!), exploring new modes of education, or conducting interesting research work at the intersection of computer science and memory. If you work at such a place or have something else you think I might be interested in, [let me know](mailto:cameronbracco@gmail.com)!s
+
+I'm always looking for new opportunities and would love to work somewhere that is either actively tackling the challenges of space exploration (ideally human!), exploring new modes of education, or conducting interesting research work at the intersection of computer science and memory. I'm also just generally initerested in [moonshot problems](https://x.company/moonshot/) of all kinds. If you work at such a place or have something else you think I might be interested in, [let me know](mailto:cameronbracco@gmail.com)!
 
 <!-- 
 
