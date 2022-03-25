@@ -23,3 +23,18 @@ Chasing New Horizons - Alan Stern and David Grinspoon
 
 Beyond the Known - Andrew Rader
 
+How to Avoid a Climate Disaster - Bill Gates
+
+Liftoff - Eric Berger
+
+Project Hail Mary - Andy Weir
+
+The Precipice - Toby Ord
+
+The Complete Collectio of Arséne Lupin - Maurice LeBlanc
+
+Exhalation - Ted Chiang
+
+Parable of the Sower - Octavia Butler
+
+Parable of the Talents - Octavia Butler
